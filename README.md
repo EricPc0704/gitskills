@@ -1,4 +1,3 @@
 # gitskills
-<<<<<<< HEAD
-EEEEEEEEEEEEEEE
+HAIYA！！！
 
