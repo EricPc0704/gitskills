@@ -1,2 +1,4 @@
 # gitskills
+<<<<<<< HEAD
 DDDDDDDDDDDDDDDd
+
