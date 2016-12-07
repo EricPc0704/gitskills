@@ -1,4 +1,4 @@
 # gitskills
 <<<<<<< HEAD
-DDDDDDDDDDDDDDDd
+EEEEEEEEEEEEEEE
 
